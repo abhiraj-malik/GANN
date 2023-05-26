@@ -1,1 +1,1 @@
-# GANN
+# Binarized_mnist
